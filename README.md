@@ -1,0 +1,1 @@
+This is a HTML project in which I am demonstrating the amount of skills gathered while following The Odin Project's lessons.
