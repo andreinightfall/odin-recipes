@@ -1,1 +1,1 @@
-This is a HTML project in which I am demonstrating the amount of skills gathered while following The Odin Project's lessons.
+This is a HTML project, a recipe webpage, in which I am demonstrating the amount of skills gathered while following The Odin Project's lessons.
