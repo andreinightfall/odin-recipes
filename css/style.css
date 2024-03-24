@@ -4,8 +4,24 @@ body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+a {
+    color:white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 .header {
     font-weight: bold;
     text-align: center;
 }
 
+.recipes-list {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list-content {
+    color: white;
+    padding: 16px;
+}
